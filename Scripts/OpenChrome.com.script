@@ -1,0 +1,10 @@
+﻿(* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+  Script generated:  2022-05-25 13:03:35
+  From session:  AccpetCookie-keysight.com
+  Captured on:  2022-05-25 12:16:09
+  From server:  Doug
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *)
+
+DoubleClick "ChromeShortcut"
+Click (Image:"URL", WaitFor:4)
+TypeText "keysight.com",return
